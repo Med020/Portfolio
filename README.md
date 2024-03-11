@@ -18,9 +18,8 @@ Welcome to my personal portfolio! This is where I showcase my projects, skills, 
 
 ## Technologies Used
 - HTML5
-- CSS3 (including CSS frameworks like Bootstrap if used)
-- JavaScript (optional, depending on project requirements)
-- [Any other technologies or tools you've utilized]
+- CSS3 
+- JavaScript 
 
 ## Installation
 1. Clone this repository: `git clone https://github.com/yourusername/portfolio.git`
